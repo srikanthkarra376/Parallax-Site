@@ -1,0 +1,54 @@
+
+body{
+  padding:0;
+  margin:0;
+}
+
+
+#img1 {
+ background-image:url(../css/images/ground.jpeg);
+ background-attachment: fixed;
+ height:100vh;
+ width: 100%;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center; 
+}
+.caption {
+  font-size: 20px;
+
+  text-align: center;
+  padding:50px;
+
+ }
+
+#img2 {
+  background-image:url(../css/images/city1.jpg);
+  background-attachment: fixed;
+   position: relative;
+  height:500px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: relative; 
+ }
+ #img3 {
+  background-image:url(../css/images/city2.jpg);
+   position: relative;
+   background-attachment: fixed;
+  height:300px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: relative; 
+ }
+ #img4 {
+  background-image:url(../css/images/ground.jpeg);
+   position: relative;
+   background-attachment: fixed;
+  height:100vh;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: relative; 
+ }
