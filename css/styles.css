@@ -6,13 +6,25 @@ body{
 
 
 #img1 {
- background-image:url(../css/images/ground.jpeg);
+ background-image:url(../css/images/x-underwater-tree-widescreen-hd-abstract-desktop-wallpaper-36636032.jpg);
  background-attachment: fixed;
- height:100vh;
+ height:825px;
  width: 100%;
  background-repeat: no-repeat;
  background-size: cover;
  background-position: center; 
+ text-align:center;
+
+}
+#img1 .caption {
+  font-size: 2.5em;
+  margin:500px,auto;
+}
+#img1 .border{
+  font-size: 50px;
+  color: white;
+  padding-top:500px;
+ 
 }
 .caption {
   font-size: 20px;
@@ -22,33 +34,49 @@ body{
 
  }
 
+
 #img2 {
-  background-image:url(../css/images/city1.jpg);
+  background-image:url(../css/images/Awesome-flower-wallpaper-hd.jpg);
   background-attachment: fixed;
-   position: relative;
+  position: relative;
   height:500px;
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: relative; 
  }
+ .caption2 {
+  font-size: 20px;
+  text-align: center;
+  padding:50px;
+   background-color: black;
+   color:white;
+ }
  #img3 {
+  background-image:url(../css/images/Bg1.png);
+  background-attachment: fixed;
+  height:400px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+ }
+ #img4 {
   background-image:url(../css/images/city2.jpg);
-   position: relative;
-   background-attachment: fixed;
+  position: relative;
+  background-attachment: fixed;
   height:300px;
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: relative; 
  }
- #img4 {
-  background-image:url(../css/images/ground.jpeg);
-   position: relative;
-   background-attachment: fixed;
-  height:100vh;
+ #img5 {
+  background-image:url(../css/images/x-underwater-tree-widescreen-hd-abstract-desktop-wallpaper-36636032.jpg);
+  background-attachment: fixed;
+  height:825px;
   width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: relative; 
+  background-position: center; 
+
  }
