@@ -3,10 +3,8 @@ body{
   padding:0;
   margin:0;
 }
-
-
 #img1 {
- background-image:url(../css/images/x-underwater-tree-widescreen-hd-abstract-desktop-wallpaper-36636032.jpg);
+ background-image:url(./x-underwater-tree-widescreen-hd-abstract-desktop-wallpaper-36636032.jpg);
  background-attachment: fixed;
  height:825px;
  width: 100%;
@@ -36,7 +34,7 @@ body{
 
 
 #img2 {
-  background-image:url(../css/images/Awesome-flower-wallpaper-hd.jpg);
+  background-image:url(./Awesome-flower-wallpaper-hd.jpg);
   background-attachment: fixed;
   position: relative;
   height:500px;
@@ -53,7 +51,7 @@ body{
    color:white;
  }
  #img3 {
-  background-image:url(../css/images/Bg1.png);
+  background-image:url(./Bg1.png);
   background-attachment: fixed;
   height:400px;
   width: 100%;
@@ -62,7 +60,7 @@ body{
 
  }
  #img4 {
-  background-image:url(../css/images/city2.jpg);
+  background-image:url(./city2.jpg);
   position: relative;
   background-attachment: fixed;
   height:300px;
@@ -71,7 +69,7 @@ body{
   background-size: cover;
  }
  #img5 {
-  background-image:url(../css/images/x-underwater-tree-widescreen-hd-abstract-desktop-wallpaper-36636032.jpg);
+  background-image:url(./x-underwater-tree-widescreen-hd-abstract-desktop-wallpaper-36636032.jpg);
   background-attachment: fixed;
   height:825px;
   width: 100%;
